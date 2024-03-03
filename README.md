@@ -12,11 +12,11 @@ Follow these steps to run the application:
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/post-viewer.git
+git clone https://github.com/Mz-zubair102/meta_melon_task.git
 
 ### Navigate to the Project Directory
 
-cd post-viewer
+cd meta_melon_task
 
 ### Install Dependencies
 
