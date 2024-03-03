@@ -1,4 +1,4 @@
-# meta_melon_task
+# Meta_Melon_Task
 
 This Flutter application fetches data from the provided API endpoint and displays posts in a scrollable list with title and body. It implements pull-to-refresh functionality, allows users to tap on a list item to view full post details, handles loading and error states appropriately, utilizes local caching for improved performance and offline functionality, and ensures the UI is responsive on different screen sizes.
 
