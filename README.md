@@ -1,16 +1,27 @@
 # meta_melon_task
 
-A new Flutter project.
+This Flutter application fetches data from the provided API endpoint and displays posts in a scrollable list with title and body. It implements pull-to-refresh functionality, allows users to tap on a list item to view full post details, handles loading and error states appropriately, utilizes local caching for improved performance and offline functionality, and ensures the UI is responsive on different screen sizes.
 
-## Getting Started
+## Instructions
 
-This project is a starting point for a Flutter application.
+Follow these steps to run the application:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Ensure that you have Flutter installed on your system. If not, you can follow the official installation guide [here](https://flutter.dev/docs/get-started/install).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Clone the Repository
+
+git clone https://github.com/your-username/post-viewer.git
+
+### Navigate to the Project Directory
+
+cd post-viewer
+
+### Install Dependencies
+
+flutter pub get
+
+### Run the Application
+
+flutter run
